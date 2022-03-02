@@ -1,6 +1,6 @@
 {
   "name": "alpha-numerical-sequence",
-  "version": "0.0.7",
+  "version": "1.0.0",
   "description": "get a sequence based on the excel's columns system concatenating a numerical sequence",
   "main": "./src/index.js",
   "scripts": {
