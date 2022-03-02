@@ -1,5 +1,7 @@
 # alpha-numerical-sequence
 
+[![NPM](https://nodei.co/npm/alpha-numerical-sequence.png)](https://npmjs.org/package/alpha-numerical-sequence)
+
 > get a sequence based on the excel's columns system concatenating a numerical sequence.
 > Also converts a number to Excel column name based on the index and the same for Excel name to an index number.
 
