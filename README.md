@@ -1,4 +1,4 @@
-# alpha-numerical-sequence ![npm](https://img.shields.io/npm/v/alpha-numerical-sequence) https://img.shields.io/github/v/release/gustavdz/alpha-numerical-sequence?include_prereleases
+# alpha-numerical-sequence ![npm](https://img.shields.io/npm/v/alpha-numerical-sequence) ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/gustavdz/alpha-numerical-sequence?include_prereleases)
 
 [![NPM](https://nodei.co/npm/alpha-numerical-sequence.png)](https://npmjs.org/package/alpha-numerical-sequence)
 
